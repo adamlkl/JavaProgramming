@@ -1,0 +1,10 @@
+final int SCREEN_WIDTH = 1180;
+final int SCREEN_HEIGHT = 600;
+final int IMGSIZE = 60;
+final int SHIP_SIZE = 40;
+final int ALIVE = 30;
+final int DEAD = 0;
+final int BOMB_HEIGHT = 40;
+final int BOMB_WIDTH = 10;
+final int BULLET_HEIGHT = 40;
+final int BULLET_WIDTH = 20;
